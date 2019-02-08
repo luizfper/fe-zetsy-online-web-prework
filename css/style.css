@@ -4,10 +4,6 @@
 
 /*////////// Global Styles //////////*/
 
-.wrapper header a{
-    color: rgb(152,173,166);
-    text-decoration: none;
-}
 
 body {
 	background: #F3EBE9;
@@ -23,3 +19,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header a{
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
